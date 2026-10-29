@@ -65,10 +65,10 @@ I love learning new things. I am a naturally curious and sociable person who lov
   <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile" />
 </p>
 
-### Spoken Languages
+### Languages
 - 🇫🇷 French
-- 🇬🇧 English (B2)
-- 🇵🇹 Portuguese (B2)
+- 🇬🇧 English (C1)
+- 🇵🇹 Portuguese (C1)
 
 ---
 
