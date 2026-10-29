@@ -1,12 +1,13 @@
-## 👋 Hi there, I'm Alexandre De Brito
+### 👋 Hi there, I'm Alexandre De Brito
 
-Software Engineering student at [Grenoble INP – Ensimag](https://grenoble-inp.fr), formerly top of my class at the [University of Western Brittany](https://www.univ-brest.fr/fr). 
+Software Engineering student at [Grenoble INP – Ensimag](https://grenoble-inp.fr), formerly top of my class at the [University of Western Brittany](https://www.univ-brest.fr).
 
 ---
 
 ## About Me
 
 I love learning new things. I am a naturally curious and sociable person who loves teamwork and sharing everyone's experiences and knowledge. I enjoy teaching myself new things and challenging myself through complex projects.
+
 ---
 
 ## Experience
@@ -18,7 +19,7 @@ I love learning new things. I am a naturally curious and sociable person who lov
 - Applied multi-threading, low-level system profiling, and English-language scientific collaboration.
 
 ### Full-Stack Developer Intern - SIMICAR (May–August 2025)
-- Developed order management solutions for SMBs using React, JavaScript, NodeJS, WebSockets, and database technologies.
+- Developed order management solutions for SMBs using React, JavaScript, Node.js, WebSockets, and database technologies.
 - Customized the Dolibarr ERP/CRM source code (PHP) to meet specific client requirements through close, direct collaboration.
 - Analyzed and addressed complex business challenges, focusing on end-to-end product traceability.
 - Delivered a solution successfully deployed and put into production immediately after delivery, receiving excellent client feedback.
@@ -65,16 +66,16 @@ I love learning new things. I am a naturally curious and sociable person who lov
 </p>
 
 ### Spoken Languages
-- 🇫🇷 French 
+- 🇫🇷 French
 - 🇬🇧 English (B2)
-- 🇷🇺 Portuguese (B2)
+- 🇵🇹 Portuguese (B2)
 
 ---
 
 ## Get in Touch
 
 - 📍 Based in Grenoble, France • Globally mobile
-- ✉️ [AlexBritoCerq@gmail.com@gmail.com](mailto:AlexBritoCerq@gmail.com)
-- 🔗 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/alexandre-de-brito-cerqueira-192a11430/))
-
+- ✉️ [AlexBritoCerq@gmail.com](mailto:AlexBritoCerq@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alexandre-de-brito-cerqueira-192a11430/)
+- 
 *Always open to opportunities, collaborations, and projects.*
