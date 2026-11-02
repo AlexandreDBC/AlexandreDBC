@@ -26,9 +26,12 @@ I love learning new things. I am a naturally curious and sociable person who lov
 
 ---
 
-## Other Projects
+## Projects
 
-- Compiler Design & Software Engineering project: complete compiler development from syntax analysis to assembly generation in Java (ANTLR) - top grade.
+- Compiler Design & Software Engineering: Complete compiler development from syntax analysis to assembly generation in Java (ANTLR) - top grade.
+- Multi-Agent Systems & Cellular Automata Simulator: Java simulation engine exploring emergent behaviors (Conway, Immigration, Schelling, Boids) with JUnit tests and Doxygen documentation - top grade.
+- Object-Oriented RPG (SMH Le Jeu): Adventure RPG in Java featuring an MVC architecture and robust design patterns (Observer, Adapter, Command, State, Builder, Factory) - top grade.
+- Store Management Database System: Java application using JDBC to manage a relational database for store products, orders, and deliveries - top grade.
 - Movie management desktop app in Java (rating system, save feature, JavaFX).
 - Multiplayer "Pixel War" in Java using TCP/UDP and JavaFX.
 
