@@ -80,5 +80,5 @@ I love learning new things. I am a naturally curious and sociable person who lov
 - 📍 Based in Grenoble, France • Globally mobile
 - ✉️ [AlexBritoCerq@gmail.com](mailto:AlexBritoCerq@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alexandre-de-brito-cerqueira-192a11430/)
-- 
+  
 *Always open to opportunities, collaborations, and projects.*
